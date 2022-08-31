@@ -1,0 +1,70 @@
+=========Namco Museum Encore ==========
+English Patch by MonstermanMFR
+
+v1.0 - Initial Release
+
+=======================================
+Contents
+=======================================
+
+xDelta Patch File
+
+Readme
+
+=======================================
+About this project
+=======================================
+
+I started this project about a year ago.
+While having no experience hacking games,
+I decided to start on a project that was
+primarily or 100% a graphical hack. Additionally,
+my love for Namco Museum games of the PS1 era
+made me pursue this project after locating all of
+the text in the TIM images using tim2view.
+
+I started this project using Google Translate,
+and although I did take Japanese Language in
+college for 2 years, that was over 15 years ago
+and it's safe to say I didn't study much since
+those classes. Since this patch is some basic
+receptionist messages and Record menus, I figured
+google translate would work well with what I wanted 
+to accomplish, which was have the records screen
+work so I could play these arcade classics and 
+increase my rankings.
+
+While there is more japanese text in some of the TIM images, 
+I didn't see them used in game and don't play on translating
+that stuff at this point. Maybe they are messages that
+show up when you Rank up to S/A rank in the records
+screen? I better get playing and maybe at that point
+I will translate those as well. 
+
+=======================================
+Patch Instructions
+=======================================
+Patch is in xDelta format. Any xDelta patcher should
+work. 
+
+Romhacking.net online patcher : https://www.romhacking.net/patch/
+
+This patch is to be applied to the Limited Edition (Shokai Gentei Special Box) 
+(SLPS-00765) Track 1 .bin image.
+
+MD5 hash of this image: 'DC822E93B108F243B2EDB9FFCE4F6A2A'.
+
+=======================================
+More Info
+=======================================
+
+My personal site with upcoming projects:
+http://pieruccidev.com
+
+Rules:
+This patch is fan made and unofficial. Please
+do not sell or buy this patch under any circumstances.
+This patch is to only be applied on a disk image and not
+to be redistributed pre-installed on an illegal disc image.
+Thank you for your understanding.
+
